@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/activity_main.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/activity_walk_through.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/arfloor_fragment.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/arselfe_fragment.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/arselfie_home_fragment.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/attachment_layout.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/bottom_sheet_profile_picture.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/chat_fragment.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/chat_fragment_rooms.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/checkable_list_layout.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/contact_item.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/contacts_fragment.xml" value="0.25092592592592594" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/creategroup_fragment.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/different_user_profile_fragment.xml" value="0.24074074074074073" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/facebook_login_fragment.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/find_user_fragment.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/friend_item.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/groupinfo_fragment.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/eslam/Downloads/Germany/LetsChat-1-master/app/src/main/res/layout/home_fragment.xml" value="0.2604166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
